@@ -82,4 +82,3 @@ async def clone_history(event):
 print("🚀 Booting up 50 MB/s God Mode Engine...")
 client.start()
 client.run_until_disconnected()
-          
